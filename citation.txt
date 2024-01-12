@@ -1,0 +1,7 @@
+@inproceedings{REPO179,
+    author = "Jin, Panpan and Fei, Xincai and Zhang, Qixia and Liu, Fangming and Li, Bo",
+    booktitle = "IEEE INFOCOM 2020 - IEEE Conference on Computer Communications",
+    pages = "267-276",
+    title = "{Latency-aware VNF Chain Deployment with Efficient Resource Reuse at Network Edge}",
+    year = "2020"
+}
